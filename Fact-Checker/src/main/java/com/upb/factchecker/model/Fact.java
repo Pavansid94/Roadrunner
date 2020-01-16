@@ -7,7 +7,7 @@ public class Fact {
 	
 	private String statement;
 	
-	private Double truthValue = 0.0;
+	private Double truthValue = -1.0;
 
 	public int getFactID() {
 		return factID;
