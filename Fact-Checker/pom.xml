@@ -9,7 +9,7 @@
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<slf4j.version>1.7.6</slf4j.version>
-		<corenlp.version>3.9.2</corenlp.version>
+		<corenlp.version>4.4.0</corenlp.version>
 		<jsoup.version>1.9.1</jsoup.version>
 		<jena.version>3.1.0</jena.version>
 	</properties>
